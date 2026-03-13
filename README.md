@@ -15,4 +15,5 @@ iOS application developed at the Apple Foundation Program. It leverages Sentimen
 ##  Why this project stands out
 Beyond standard UI/UX development, this project demonstrates a strong foundation in **handling structured data**, applying **algorithmic logic** for data matching, and integrating **quantitative text-analysis metrics** into a functional mobile environment. 
 
+
 *Developed by Nicolò Angileri & Team - Apple Foundation Program 2026*
